@@ -1,3 +1,4 @@
+# package used to check the style (identation) of the code
 import pycodestyle
 
 check_code = pycodestyle.StyleGuide()
